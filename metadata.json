@@ -1,0 +1,6 @@
+{
+  "name": "Imposter",
+  "description": "Group word bluffing party game where one secret imposter receives only a hint. Features real-time shuffling, pass-and-play, and accusation rounds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
